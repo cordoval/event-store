@@ -3,6 +3,7 @@
 namespace Knp\Event;
 
 use Knp\Event\Event;
+use Knp\Event\Emitter;
 
 interface Store
 {
